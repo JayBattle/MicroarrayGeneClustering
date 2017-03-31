@@ -18,4 +18,5 @@ Instructions:
 Step 1: Make sure you have a copy of the entire MicroarrayGeneClustering directory
 Step 2: Run bash setup.sh to set all file permissions
 Step 3: Run bash calibrationAndAnalysis.sh to compile all programs and generate cluster data
-Step 4: Run bash dataRetrival.sh to search a gene's status for all times
+	, follow any prompts
+Step 4: Run bash dataRetrival.sh to search a gene's status for all times, follow any prompts
