@@ -1,0 +1,28 @@
+For the 0 time point dataset
+The suppressed cluster of 1816 genes has a mean of -0.099038 
+The expressed cluster of 1575 genes has a mean of 0.078872 
+The stationary cluster of 2727 genes has a mean of -0.013082 
+For the 1 time point dataset
+The suppressed cluster of 694 genes has a mean of -0.504442 
+The expressed cluster of 1705 genes has a mean of 0.272742 
+The stationary cluster of 3719 genes has a mean of -0.042341 
+For the 2 time point dataset
+The suppressed cluster of 1135 genes has a mean of -0.307331 
+The expressed cluster of 1332 genes has a mean of 0.296304 
+The stationary cluster of 3651 genes has a mean of -0.008057 
+For the 3 time point dataset
+The suppressed cluster of 1652 genes has a mean of -0.296325 
+The expressed cluster of 693 genes has a mean of 0.535107 
+The stationary cluster of 3773 genes has a mean of 0.037123 
+For the 4 time point dataset
+The suppressed cluster of 1954 genes has a mean of -0.376230 
+The expressed cluster of 698 genes has a mean of 0.703677 
+The stationary cluster of 3466 genes has a mean of 0.041479 
+For the 5 time point dataset
+The suppressed cluster of 2008 genes has a mean of -0.321558 
+The expressed cluster of 624 genes has a mean of 0.649013 
+The stationary cluster of 3486 genes has a mean of 0.032356 
+For the 6 time point dataset
+The suppressed cluster of 2350 genes has a mean of -0.315237 
+The expressed cluster of 507 genes has a mean of 0.723751 
+The stationary cluster of 3261 genes has a mean of 0.021571 
