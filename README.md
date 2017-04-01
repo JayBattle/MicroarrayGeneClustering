@@ -6,6 +6,8 @@ Course: BIEN 4290
 Refrences: My alma mater, Chu et. al.
 Languages: C, Bash
 Platform: UNIX
+Purpose: Sample C Project
+Status: In revisions
 
 Description:
 This class inspired project creates a automated command line interface to calibrate, analyze, 
